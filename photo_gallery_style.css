@@ -1,3 +1,7 @@
+/* ========================================================================= */
+/* =================  Photo Gallery ============================= */
+/* ========================================================================= */
+
 /* Font type = Satisfy */
 /* Give it a clean white sanatized surface look for */
 
@@ -15,7 +19,7 @@ html {
 }
 
 body {
-  font-family: "Satisfy", sans-serif;
+  font-family: 'Satisfy', sans-serif;
   /* font-family: "Sofia", sans-serif; */
   /* Leave body background dark while coding */
   /* background-color: white; */
@@ -139,8 +143,6 @@ img {
   grid-row-start: 6;
   grid-row-end: 9;
 }
-
-
 
 .overlay {
   position: absolute;
